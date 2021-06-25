@@ -25,9 +25,9 @@ I'm a 17-year-old boy, recently approved in college. I like to work with JS and 
 - 🔭 I’m currently working on: A freelance project for [Above Aviação](https://aboveaviacao.com)
 - 👾 Skills:
   - JavaScript / TypeScript
-  - React
-  - Next
-  - Node
+    - React
+    - Next
+    - Node
   - Figma
 
 ## Contact 📞
