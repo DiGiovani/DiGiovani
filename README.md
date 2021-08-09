@@ -22,7 +22,7 @@ I'm just starting to manage my github, so don't mind the mess.
 
 I'm a 17-year-old boy, recently approved in college. I like to work with JS and trying to learn as max as I can.
 
-- 🔭 I’m currently working on: A freelance project for [Above Aviação](https://aboveaviacao.com)
+- 🔭 I’m currently studying at UFG.
 - 👾 Skills:
   - JavaScript / TypeScript
     - React
