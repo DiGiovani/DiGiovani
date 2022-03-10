@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ##  About 🙋🏻‍♂️
 
-I'm a 17-year-old boy, recently approved in college. I like to work with JS and trying to learn as max as I can.
+I'm a developer and still astonished with things technology can do.
 
 - 🔭 I’m currently working at Neurobrinq as a Full Stack Developer.
+- 📚 Computer Engineering at UFG.
 - 👾 Skills:
   - JavaScript / TypeScript
     - React
