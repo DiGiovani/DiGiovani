@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Alex DiGiovani",
+    "subtitle": "Full Stack Developer",
+    "description": "Developer passionate about technology and what it can do"
+  },
+  "about": {
+    "title": "About Me",
+    "intro": "I'm a developer and still astonished with things technology can do.",
+    "current": "Currently working at Neurobrinq as a Full Stack Developer",
+    "education": "Computer Engineering at UFG",
+    "skills": "Skills"
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email",
+    "linkedin": "LinkedIn"
+  }
+}

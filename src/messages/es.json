@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "home": {
+    "title": "Alex DiGiovani",
+    "subtitle": "Desarrollador Full Stack",
+    "description": "Desarrollador apasionado por la tecnología y lo que puede hacer"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "intro": "Soy un desarrollador y todavía asombrado con lo que la tecnología puede hacer.",
+    "current": "Actualmente trabajando en Neurobrinq como Desarrollador Full Stack",
+    "education": "Ingeniería Informática en UFG",
+    "skills": "Habilidades"
+  },
+  "contact": {
+    "title": "Contacto",
+    "email": "Email",
+    "linkedin": "LinkedIn"
+  }
+}
